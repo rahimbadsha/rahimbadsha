@@ -1,25 +1,57 @@
-<h1 align="center">Hi 👋, I'm Md Rahim Badsha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahimbadsha&label=Profile%20views&color=0e75b6&style=flat" alt="rahimbadsha" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rahimbadsha95" target="blank"><img src="https://img.shields.io/twitter/follow/rahimbadsha95?logo=twitter&style=for-the-badge" alt="rahimbadsha95" /></a> </p>
-
-- 🔭 I’m currently working on [React Router](https://github.com/rahimbadsha/react-router-assignment8)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rahimbadsha95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahimbadsha95" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdrahimbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdrahimbd" height="30" width="40" /></a>
-<a href="https://fb.com/abd.rahim.badsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abd.rahim.badsha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.ibb.co/C3Rn7Wm5/Github-Cover.png" alt="Md Rahim Badsha - Full Stack Web Developer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=500&color=0077B6&center=true&vCenter=true&width=430&lines=Hey!+Nice+to+see+you." />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahimbadsha&show_icons=true&locale=en&layout=compact" alt="rahimbadsha" /></p>
+Welcome to my page!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahimbadsha&show_icons=true&locale=en" alt="rahimbadsha" /></p>
+I am **Md Rahim Badsha**. Fullstack developer from 🇧🇩 Cumilla, Bangladesh. Currently living in Dhaka, Bangladesh, where I turn ideas into powerful web applications using the MERN stack and modern technologies.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahimbadsha&" alt="rahimbadsha" /></p>
+---
 
+## 🛠️ Things I Code With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind&perline=7&theme=dark" alt="Technical Skills: JavaScript, React, Node.js, Express, MongoDB, Firebase, Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,npm&perline=7&theme=dark" alt="Tools: VS Code, Git, GitHub, NPM" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+Here are a few of the projects I'm most proud of. I focus on building scalable, performant, and user-friendly applications.
+
+| Project | Description | Tech Stack | Repository | Live |
+| :--- | :--- | :--- | :--- | :--- |
+| **Learnify** | Online Learning Platform | React, Node, MongoDB, Firebase | [GitHub](https://github.com/rahimbadsha/online-learning-platform) | [Demo](https://learnify10.netlify.app/) |
+| **SkillShare (Portfolio)** | Fullstack Service Sharing Platform | React, Node, Express, MongoDB | N/A (Private Repo) | [Demo](https://skillshare-rahim.netlify.app/) |
+| **Productive App** | Task Management / Productivity Tool | React, React Router | [GitHub](https://github.com/rahimbadsha/react-router-assignment8) | [Demo](https://productiveapp-hero.netlify.app/) |
+
+---
+
+## 🤝 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [Connect with Md Rahim Badsha](https://www.linkedin.com/in/abdrahimbd/) |
+| **Facebook** | [Follow Md Rahim Badsha](https://www.facebook.com/abd.rahim.badsha/) |
+| **GitHub** | [@rahimbadsha](https://github.com/rahimbadsha) |
+
+---
+
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahimbadsha&layout=compact&theme=vision-friendly-dark" alt="Md Rahim Badsha's Top Languages" />
+</p>
+
+<p align="center">
+  <small>This README is constantly evolving, just like my skills.</small>
+</p>
