@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/C3Rn7Wm5/Github-Cover.png" alt="Md Rahim Badsha - Full Stack Web Developer" />
+  <img src="https://i.ibb.co/hSmGkBD/cover2.jpg" alt="Md Rahim Badsha - Full Stack Web Developer" />
 </p>
 
 <p align="center">
