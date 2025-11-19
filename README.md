@@ -39,7 +39,7 @@ Here are a few of the projects I'm most proud of. I focus on building scalable, 
 
 | Project | Description | Tech Stack | Repository | Live |
 | :--- | :--- | :--- | :--- | :--- |
-| **Learnify** | Online Learning Platform | React, Node, MongoDB, Firebase | [GitHub](https://github.com/rahimbadsha/online-learning-platform) | [Demo](https://learnify10.netlify.app/) |
+| **Learnify** | Online Learning Platform | React, Node, MongoDB, Firebase | [GitHub](https://github.com/rahimbadsha/online-learning-platform-client) | [Demo](https://learnify10.netlify.app/) |
 | **SkillShare (Portfolio)** | Fullstack Service Sharing Platform | React, Node, Express, MongoDB | N/A (Private Repo) | [Demo](https://skillshare-rahim.netlify.app/) |
 | **Productive App** | Task Management / Productivity Tool | React, React Router | [GitHub](https://github.com/rahimbadsha/react-router-assignment8) | [Demo](https://productiveapp-hero.netlify.app/) |
 
